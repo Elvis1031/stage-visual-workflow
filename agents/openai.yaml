@@ -1,0 +1,7 @@
+interface:
+  display_name: "舞台视觉全流程"
+  short_description: "逐帧分析会议与资料，锁定台型并形成分段屏幕视觉方案"
+  default_prompt: "Use $stage-visual-workflow to analyze this show folder, lock the LED stage geometry, and build a timecoded visual plan."
+policy:
+  allow_implicit_invocation: true
+
